@@ -3,6 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App_de_Login.Login"
              Title="Login">
+
+
     <VerticalStackLayout VerticalOptions="Center" Spacing="10" Padding="10">
         <Label Text="Sistema de Login" HorizontalOptions="Center" />
         <Label Text="Usuário:" />
