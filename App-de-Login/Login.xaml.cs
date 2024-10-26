@@ -28,7 +28,7 @@ public partial class Login : ContentPage
 			DadosUsuario dados_digitados = new DadosUsuario()
 			{
 				Usuario = txt_usuario.Text,
-		/* Se n funcionar colocar string*/  Senha = txt_senha.Text
+		        Senha = txt_senha.Text
 			};
 
 
